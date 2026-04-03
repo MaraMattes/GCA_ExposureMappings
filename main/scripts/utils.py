@@ -1,6 +1,6 @@
 import random
 import torch, os, math
-import numpy as np, networkx as nx, math
+import numpy as np, networkx as nx
 from scipy.special import gamma as GammaF
 from scipy.spatial import cKDTree
 from torch_geometric.utils import  from_scipy_sparse_matrix
